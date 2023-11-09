@@ -1,5 +1,3 @@
-os
-ctypes
 request
 random
 string
